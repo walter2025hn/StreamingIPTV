@@ -1,0 +1,305 @@
+#EXTM3U
+
+-------- HONDURAS-------
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6F4pSEmKEZe78-kcn9ZBhyZc9RjTbgVVHC90-yXdvQ&s=10" tvg-id="AlsaciasTelevision.hn@SD" group-title="HONDURAS TV",Alsacias Televisión (ATV | Canal 28) (720p)
+https://s.emisoras.tv:8081/atv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZ36SsRlSVkObp-AeGi7aAFdiAE7iI-eCJ_cvchA5pg&s" tvg-id="CampusTV.hn@SD" group-title="HONDURAS TV",Campus TV (480p) [Not 24/7]
+https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT99ffTUihldvaH-hJDpTKJkO_VxtFMS_6q7d-n46GeUw&s=10" tvg-id="Canal11.hn@SD" group-title="HONDURAS TV",Canal 11 (1080p) [Not 24/7]
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGRFhAtryx6wR16LPPZ71uqo_zqN-KVUg2w3RQ8sS9Q&s=10" tvg-id="CholutecaTV.hn@SD" group-title="HONDURAS TV",Choluteca TV (1080p)
+https://s.emisoras.tv:8081/cholutecatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS14e0xugCIF0ZttVI9WdGNg-i06V3bSyr8vdC84MFl5A&s=10" tvg-id="CHTV.hn@SD" group-title="HONDURAS TV",CHTV (1080p)
+https://viewhn.com/chtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJRXLkl2-tYrUkPYk52iEz1C-7bLaxUNUY1wsDfGmVwQ&s=10" tvg-id="DiosTeVe.hn@SD" group-title="HONDURAS TV",Dios Te Ve (720p)
+https://s.emisoras.tv:8081/diostevetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBu32EeUCjcSGeOyHwgYYMBeXhnlt-ZaFQynKyrrBcYQ&s=10" tvg-id="DiosTeVeKids.hn@SD" group-title="HONDURAS TV",Dios Te Ve Kids (720p)
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg042VSsDU43kd3dWhc7NxcDZMj3ZzVW-kU22fHrnd6w&s" tvg-id="DiosTvTalanga.hn@SD" group-title="HONDURAS TV",Dios Tv Talanga (1080p)
+https://tv.webmedialive.com/unciontv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvuKajk8bBQSRfmLKQfIovLtTTEiq5pQCURmSVj8HuMw&s=10" tvg-id="EbenezerTV.hn@SD" group-title="HONDURAS TV",Ebenezer TV (1080p)
+https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGNZCRKbN_7kePWmQFBNHe-ccwDy8RDAY81voxcPB6Yw&s=10" tvg-id="EDNTV.hn@SD" group-title="HONDURAS TV",EDN TV (1080p) [Not 24/7]
+https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW7zFmF0xNo1FJsinACV83iyBH8BjcFgHt1wyBmZc-GS44MKNlUbdz_G8w&s=10" tvg-id="GirasolTV.hn@SD" group-title="HONDURAS TV",Girasol TV (1080i)
+https://s.emisoras.tv:8081/girasoltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHJiyuuCAIMgJiyFNSYKswcy0xR9C_gXvLCfHAoDjCcRHxHvTh9_K-6bb&s=10" tvg-id="InmaculadaTV.hn@SD" group-title="HONDURAS TV",Inmaculada TV (720p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/radiotvcholy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqV3RQCvnYwGjij2UcoYepKPVN1oPXJl3J6tKE-ZmKmQ&s=10" tvg-id="KerussoTV.hn@SD" group-title="HONDURAS TV",Kerusso TV (720p)
+https://s.emisoras.tv:8081/kerussotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-wx22xJ9B1qDM15-BXiGRpBC2kZ0EEkP9584b6PojYw&s=10" tvg-id="LaTop1029.hn@SD" group-title="RADIO HONDURAS",La Top 102.9 (720p)
+https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.medios.gt/galeriausuarios/honduras1/imagenesmessage/imagem080131205702988.jpg" tvg-id="LaTop1077.hn@SD" group-title="RADIO HONDURAS",La Top 107.7 (720p)
+https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTn3JM4H8MEVXrYyDiD6MmvNtdSVPEP9Z_WrAd-ULbfYIx61QfDPsXtVw&s=10" tvg-id="LencaTV.hn@SD" group-title="HONDURAS TV",Lenca Television Canal 40 (720p) [Not 24/7]
+https://lencatelevision.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbJr8Jl3-IapnqDfvGMr8WJTWRlKloyc_G3BG0loJFuw&s=10" tvg-id="LitoralAtlanticoHD.hn@SD" group-title="HONDURAS TV",Litoral Atlántico HD (720p)
+https://cdn4.streamgato.us:3595/live/litoralhdlive.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpdY-9kAhgveoG2G6xMi20MnVyAPTn2Ddr7rJIlbNmsg&s=10" tvg-id="MetroTV.hn@SD" group-title="HONDURAS TV",Metro TV (720p)
+https://s.emisoras.tv:8081/metrotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.coicom.com/wp-content/uploads/2025/08/omega-medios-01.png" tvg-id="RadioOmegaTV.hn@SD" group-title="HONDURAS TV",Omega TV (720p) [Not 24/7]
+https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThkMeytgIQN8OY5mLz-tvBhy9mKbs3g7JE0GUdro8X8g&s=10" tvg-id="RadioIdeal.hn@SD" group-title="RADIO HONDURAS",Radio Ideal 104.7 FM (La Esperanza) (720p) [Not 24/7]
+https://www.idealfm104-7.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVUeReWl5TUGcw1SpJkrET9T6vM45y1wPRBuR0VB9mDg&s=10" tvg-id="ImagenFM1051.hn@SD" group-title="RADIO HONDURAS",Radio Imagen 105.1 FM (720p) [Not 24/7]
+https://streaming.imagenfm105-1.com/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiEBxfnI9E-BfFtpF4NsqbdBko51wEDPy6_PLNwODMNg&s=10" tvg-id="RCVTV.hn@SD" group-title="HONDURAS TV",RCV TV (712p)
+https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeUp3kFAN5uiWfEv2QSckOXd2ehbqTXiKQYCEOB7KKXg&s=10" tvg-id="SulaTV.hn@SD" group-title="HONDURAS TV",Sula TV (1080p)
+https://tv.webmedialive.com/sulatv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Amn3_m5gcV1K2qX7Y4URQLabIEtIq8_Uks6VD0QUFw&s=10" tvg-id="Telemas.hn@SD"group-title="HONDURAS TV",Telemás (720p)
+https://viewhn.com/telemas/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxNF5qfxLCG5Nwg_9G2mX7nv3G0JM5MlUAl3gYT_4Wtg&s=10" tvg-id="Telerayo.hn@SD" group-title="HONDURAS TV",Telerayo (1080p)
+https://s.emisoras.tv:8081/telerayo/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNqGmtT7oEN5JCW1qvB5dpcpxYYD32eWS0pRiL201x_Q&s=10" tvg-id="TelevisionMetropolis191.hn@SD" group-title="RADIO HONDURAS",Televisión Metrópolis 19.1 (1080p) [Not 24/7]
+https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOYLILmDOGR-KgO0NVZOX4zV54ENaXyKSEER6HKUcLA&s=10" tvg-id="TelevisionMetropolis192.hn@SD" group-title="RADIO HONDURAS",Televisión Metrópolis 19.2 (1080p) [Not 24/7]
+https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR31QIcPy_ajG0-b7CIov3oHD4IbePl_RFz_nViIg1nLw&s=10" tvg-id="TelevisionOlanchana.hn@SD" group-title="HONDURAS TV",Television Olanchana
+https://viewhn.com/canal30/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2043682223061090304/xI52loCe_400x400.jpg" tvg-id="TSi.hn@SD" group-title="HONDURAS TV",TSi (720p) [Not 24/7]
+https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPOzjIbZVU6aLliVBDCtvynF0pDY9SC_F3y1YOiD1A5A&s=10" tvg-id="TSi.hn@SD" group-title="HONDURAS TV",TSi
+http://181.114.57.246:4000/play/9w2G3HTtuTmrtgPZ/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgXGLbLi3fy_LNAT766EqwhifCgciEAJAeqmiX95TXQg&s=10" tvg-id="TVCentro272HD.hn@SD" group-title="RADIO HONDURAS",TV Centro 27.2 HD (720p)
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3FMOD5Ws7ds4leAK1orChKKIagYU_cNcxWqARlwkeww&s=10" tvg-id="TVCentroHD.hn@SD" group-title="HONDURAS TV",TV Centro HD (720p)
+https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJQUi5Jnfmi_zmxMWkm5oy3IiX3owD6Ei5_m9JYhUPYg&s=10" tvg-id="TVCopan.hn@SD" group-title="HONDURAS TV",TV Copán (720p) [Not 24/7]
+https://s.emisoras.tv:8081/tvcopan/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIbP_rvAaW5WfEDmNYoVSbEu80DYjH9TdCOPoYiEmiAQ&s=10" tvg-id="VTV.hn@SD" group-title="HONDURAS TV",VTV (480p) [Not 24/7]
+https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwoj3vbLALx7mfBpcqYCTxFvrLcJwrIHa31w&s" tvg-id="DeportesTVC.hn@SD" group-title="HONDURAS TV",Deportes TVC (1080p)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/HCH.png" tvg-id="HCH.hn@SD" group-title="HONDURAS TV",HCH
+https://live.streamhch.com/live/streams/hch1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/HCH.png" tvg-id:="HCH.hn@HD" group-title="HONDURAS TV",HCH OP 2
+https://live.streamhch.com/live/streams/hch1.m3u8
+
+------- EL SALVADOR ---------
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1jkB4mNoV3OGZ5xOH4-WgXhG01KyFtv_92BGbqerfQg&s=10" tvg-id="AgapeTV.sv@SD" group-title="EL SALVADOR TV",Agape TV (720p)
+https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk0BucChnA6WENxDWpJuIIpmtDqr8O5PdfyBdsxzVwMg&s=10" tvg-id="ArboldeVidaTV.sv@SD" group-title="EL SALVADOR TV",Árbol de Vida TV (240p) [Not 24/7]
+https://yupistream.top:19360/livearbol/livearbol.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmL0t-yp3kojWNpHpib0E8RkGZQ5sFhRzXu7bQb_rAHA&s=10" tvg-id="Canal3Impresionante.sv@SD" group-title="EL SALVADOR TV",Canal 3 Impresionante (480p)
+https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-tfMBte00KL3XgwwI3fkqwEbT547uoJAy9J9nY7QSKQ&s=10" tvg-id="Canal10.sv@SD" group-title="EL SALVADOR TV",Canal 10 (720p)
+https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQScCabhPNt9WdYPKxB_B9BXbhXfKk6q2V_4cZuxDt9NA&s" tvg-id="Canal11TuTV.sv@SD" group-title="EL SALVADOR TV",Canal 11 TuTV (349p)
+https://stream.giostreaming.app/canal11/canal11.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_12_Honduras.png/revision/latest/scale-to-width-down/220?cb=20170321003930" tvg-id="Canal12.sv@SD" group-title="EL SALVADOR TV",Canal 12 (220p)
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj29WMbL6wHZlCadYef-e00UkeGWCzQa_eWVoCW_Kjkw&s=10" tvg-id="Canal26TVIAP.sv@SD" group-title="EL SALVADOR TV",Canal 26 TV IAP (1080p)
+https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/kL3phzqnn_3RVFMCd_fstMEAuMiPL3B9SN9QuwilXuCn_Gf8zglXrpNiGgHPnm7jnm4bYVkmFg=s900-c-k-c0x00ffffff-no-rj" tvg-id="ElCaminoTV.sv@SD" group-title="EL SALVADOR TV",El Camino TV (480p)
+https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIVAVrdkbRsy5zTvuor66NLFLBorI_fju-4JGU6SoL5Ty9FUm8KF9r6Js3&s=10" tvg-id="JFVTV.sv@SD" group-title="EL SALVADOR TV",JFV TV (720p)
+https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.subsplash.com/image.jpg?id=f8670ea1-d50d-4b70-b0bf-9a58dace7184&w=3360&h=1890" tvg-id="JosueTV.sv@SD" group-title="EL SALVADOR TV",Josué TV (1080p)
+https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5eYeRcJEmhukzZfjFsLZg_xp8oCCey450PP9x_gECDw1EvoUnsjEYLXhh&s=10" tvg-id="MegavisionCanal19.sv@SD" group-title="EL SALVADOR TV",Megavisión Canal 19 (720p)
+https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUSnjdsmSAo2VARC9VYHX3ahjToGVaa6887_dK9xFjdQ&s=10" tvg-id="MegavisionCanal21.sv@SD" group-title="EL SALVADOR TV",Megavisión Canal 21 (720p)
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCVTNwon0YevQTFiWa9CVywOwCHzMUAQ5I8YmxB2zIWQ&s=10" tvg-id="RTVCanal57.sv@SD" group-title="EL SALVADOR TV",RTV Canal 57 (720p)
+https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_WkmzecTwrz9O_kX4nwiuYYreKTONXQXp2Ski9ksKIQ&s=10" tvg-id="TaberTV.sv@SD" group-title="EL SALVADOR TV",Taber TV (1080p)
+https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD2QJ42JdCBsgOLeTQceaHxbmJ88ZIFOVYeu6MDa5IsPfSwKRLO4cB5BSJ2sx7wNbLaTJFtd9H9x_1m0a3h6gVzgi04lAABXJxKh4YPVynk7U1q8cdWyuHf4gjivOEv7qQaiePpsRhyphenhyphen39tTqbDEpsd-wlsTyeSjAsNA1opLRcV9pcZd7E3EgXaRvGQ4Zln/s600/tv-cret.png" tvg-id="TVCRET.sv@SD" group-title="EL SALVADOR TV",TV CRET (1080p)
+https://radiocret.net:8082/hls/tvcret.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe-hmbZp0d86d_M3s6ELWspYJE_nmYenVflhlkTv5IdQ&s=10" tvg-id="TVGetsemani.sv@SD" group-title="EL SALVADOR TV",TV Getsemaní (720p)
+https://serversv.com:8080/hls/tvgetsemani.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKbeDIG4UBGWpWKV-7QSIJUKvh9U01Ol0Poko36cdXLw&s=10" tvg-id="TVLeondeJuda.sv@SD" group-title="EL SALVADOR TV",TV León de Judá (720p)
+https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1U_4nRgBscuuMwa2stkQR2w0lRgeCAyq3mFbN8Zfh&s=10" tvg-id="TVCNetwork.sv@SD" group-title="EL SALVADOR TV",TVC Network (720p) [Not 24/7]
+https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRims6PzmRB9nTlMCbHUkdvzCzZ2HyWy63r9GbXGpyoI6wSyQR1fVYQfMiA&s=10" tvg-id="TVCa.sv@SD" group-title="EL SALVADOR TV",TVCa Televisión Católica Arquidiocesana (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7sB3Ya__cUKORgEevdnFqny7nU2JvRd0ek1pBFLAAHA&s=10" tvg-id="WOWTV.sv@SD" group-title="EL SALVADOR TV",WOW TV (1080p)
+https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8
+
+-------- COLOMBIA --------
+#EXTM3U
+#EXTINF:-1 tvg-id="BendicionChannel.co@HD" group-title="COLOMBIA TV",Bendicion Channel (720p)
+https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
+#EXTINF:-1 tvg-id="BluRadio.co@SD" group-title="COLOMBIA TV",Blu Radio (720p)
+https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
+#EXTINF:-1 tvg-id="BUMTelevision.co@SD" group-title="COLOMBIA TV",BUM Televisión (720p) [Not 24/7]
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-id="BUMTelevision.co@SD" group-title="COLOMBIA TV",BUM Televisión (720p) [Not 24/7]
+https://video.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-id="CaliTV.co@SD" group-title="COLOMBIA TV",Cali TV (540p) [Not 24/7]
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal2AlpavisionNeiva.co@SD" group-title="COLOMBIA TV",Canal 2 Alpavisión Neiva (720p) [Not 24/7]
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal8TVPlus.co@SD" group-title="COLOMBIA TV",Canal 8 TV+ (720p)
+https://movil.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1 tvg-id="Canal8TVPlus.co@SD" group-title="COLOMBIA TV",Canal 8 TV+ (720p)
+https://video.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1 tvg-id="Canal14Codazzi.co@SD" group-title="COLOMBIA TV",Canal 14 Codazzi (720p) [Not 24/7]
+https://eu1.servers10.com:8081/8056/index.m3u8
+#EXTINF:-1 tvg-id="Canal55TelemoriscoTV.co@SD" group-title="COLOMBIA TV",Canal 55 Telemorisco TV (720p)
+http://canal.mediaserver.com.co/live/telemorisco.m3u8
+#EXTINF:-1 tvg-id="CanalCalimaTV.co@SD" group-title="COLOMBIA TV",Canal Calima TV (720p)
+https://movil.ejeserver.com/live/calimatv.m3u8
+#EXTINF:-1 tvg-id="CanalDos.co@SD" group-title="COLOMBIA TV",Canal Dos Yopal (720p)
+http://131.221.41.94/hls/canal2.m3u8
+#EXTINF:-1 tvg-id="CanalInstitucional.co@SD" group-title="COLOMBIA TV",Canal Institucional (720p)
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalMasTelevision.co@SD" group-title="COLOMBIA TV",Canal Más Televisión (720p)
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-id="CanalMasTelevision.co@SD" group-title="COLOMBIA TV",Canal Más Televisión (720p)
+https://video.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-id="CanalMundoVision.co@SD" group-title="COLOMBIA TV",Canal Mundo Visión (720p) [Not 24/7]
+https://movil.ejeserver.com/live/mundovisiontv.m3u8
+#EXTINF:-1 tvg-id="CanalMundoVision.co@SD" group-title="COLOMBIA TV",Canal Mundo Visión (720p) [Not 24/7]
+https://video.ejeserver.com/live/mundovisiontv.m3u8
+#EXTINF:-1 tvg-id="CanalNets.co@SD" group-title="COLOMBIA TV",Canal Nets (720p) [Not 24/7]
+https://movil.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 tvg-id="CanalNets.co@SD" group-title="COLOMBIA TV",Canal Nets (720p) [Not 24/7]
+https://video.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 tvg-id="CanalOracionConSon.co@SD" group-title="COLOMBIA TV",Canal Oración Con Son (1080p)
+https://canal.mediaserver.com.co/live/oracionconson.m3u8
+#EXTINF:-1 tvg-id="CanalTelefamilia.co@SD" group-title="COLOMBIA TV",Canal Telefamilia (360p) [Not 24/7]
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTRO.co@SD" group-title="COLOMBIA TV",Canal TRO (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTROPlus.co@SD" group-title="COLOMBIA TV",Canal TRO Plus (1080p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTV3.co@SD" group-title="COLOMBIA TV",Canal TV3 (720p) [Not 24/7]
+https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
+#EXTINF:-1 tvg-id="CanicaTV.co@SD" group-title="COLOMBIA TV",Canica TV (240p)
+https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CitytvBogota.co@SD" group-title="COLOMBIA TV",Citytv Bogota (1080p)
+http://181.114.57.246:4000/play/u2H4dIJoRipgGI3A/index.m3u8
+#EXTINF:-1 tvg-id="CMBTelevision.co@SD" group-title="COLOMBIA TV",CMB Television (1080p)
+https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8
+#EXTINF:-1 tvg-id="CNCBugavision.co@SD" group-title="COLOMBIA TV",CNC Bugavisión (720p)
+https://movil.ejeserver.com/live/cncbuga.m3u8
+#EXTINF:-1 tvg-id="CNCBugavision.co@SD" group-title="COLOMBIA TV",CNC Bugavisión (720p)
+https://video.ejeserver.com/live/cncbuga.m3u8
+#EXTINF:-1 tvg-id="CNCPereira.co@SD" group-title="COLOMBIA TV",CNC Pereira (720p)
+https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8
+#EXTINF:-1 tvg-id="CNCSantanderdeQuilichao.co@SD" group-title="COLOMBIA TV",CNC Santander de Quilichao (480p)
+https://movil.ejeserver.com/live/cncsantander.m3u8
+#EXTINF:-1 tvg-id="CNCSantanderdeQuilichao.co@SD" group-title="COLOMBIA TV",CNC Santander de Quilichao (480p)
+https://video.ejeserver.com/live/cncsantander.m3u8
+#EXTINF:-1 tvg-id="Cristovision.co@SD" group-title="COLOMBIA TV",Cristovision (720p)
+https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
+#EXTINF:-1 tvg-id="Eduvision.co@SD" group-title="COLOMBIA TV",Eduvision (1080p)
+https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
+#EXTINF:-1 tvg-id="ElMundodelCampo.co@SD" group-title="COLOMBIA TV",El Mundo del Campo (720p)
+https://movil.ejeserver.com/live/elmundodelcampo.m3u8
+#EXTINF:-1 tvg-id="FrecuenciaFTV.co@SD" group-title="COLOMBIA TV",Frecuencia F TV (1080p)
+https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
+#EXTINF:-1 tvg-id="LaCantinaMemorias.co@SD" group-title="COLOMBIA TV",La Cantina Memorias (480p) [Geo-blocked]
+https://video.xtrematv.com:3208/live/memoriaslacantinalive.m3u8
+#EXTINF:-1 tvg-id="LaHermandadSalsera.co@SD" group-title="COLOMBIA TV",La Hermandad Salsera (1080p) [Not 24/7]
+https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
+#EXTINF:-1 tvg-id="LaKalle.co@SD" group-title="COLOMBIA TV",La Kalle (720p)
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
+#EXTINF:-1 tvg-id="LaMoradaRadioTV.co@SD" group-title="COLOMBIA TV",La Morada Radio TV (720p)
+https://movil.ejeserver.com/live/lamoradatv.m3u8
+#EXTINF:-1 tvg-id="MasNorteTV.co@SD" group-title="COLOMBIA TV",Mas Norte TV [Not 24/7]
+https://live.arnoproducciones.com/hls/norte.m3u8
+#EXTINF:-1 tvg-id="MasMusicaFM.co@SD" group-title="COLOMBIA TV",MasMusica FM (720p)
+https://movil.ejeserver.com/live/masmusica.m3u8
+#EXTINF:-1 tvg-id="MasMusicaFM.co@SD" group-title="COLOMBIA TV",MasMusica FM (720p)
+https://video.ejeserver.com/live/masmusica.m3u8
+#EXTINF:-1 tvg-id="MCITelevision.co@SD" group-title="COLOMBIA TV",MCI Televisión (1080p)
+https://video.ejeserver.com/live/mcitelevision.m3u8
+#EXTINF:-1 tvg-id="MemoriasdelCorazon.co@SD" group-title="COLOMBIA TV",Memorias del Corazon (480p) [Geo-blocked]
+https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
+#EXTINF:-1 tvg-id="MemoriasFMPopLatino.co@SD" group-title="COLOMBIA TV",Memorias FM Pop Latino (480p) [Geo-blocked]
+https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVClassic.co@SD" group-title="COLOMBIA TV",Memorias TV Classic (480p) [Geo-blocked]
+https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVFilm.co@SD" group-title="COLOMBIA TV",Memorias TV Film (720p) [Geo-blocked]
+https://video.xtrematv.com:3725/live/memoriasfilmlive.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVSeries.co@SD" group-title="COLOMBIA TV",Memorias TV Series (720p) [Geo-blocked]
+https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVToons.co@SD" group-title="COLOMBIA TV",Memorias TV Toons (480p) [Geo-blocked]
+https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
+#EXTINF:-1 tvg-id="MemoriasTVTropical.co@SD" group-title="COLOMBIA TV",Memorias TV Tropical (480p) [Geo-blocked]
+https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8
+#EXTINF:-1 tvg-id="MiGenteTV.co@SD" group-title="COLOMBIA TV",Mi Gente TV (720p) [Geo-blocked]
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8
+#EXTINF:-1 tvg-id="Noticiero90Minutos.co@SD" group-title="COLOMBIA TV",Noticiero 90 Minutos (1080p)
+https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
+#EXTINF:-1 tvg-id="NSTV.co@SD" group-title="COLOMBIA TV",NSTV (1080p)
+https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
+#EXTINF:-1 tvg-id="NSTV.co@SD" group-title="COLOMBIA TV",NSTV (720p)
+http://138.186.23.7:22281/nstv/nstv/playlist.m3u8
+#EXTINF:-1 tvg-id="OasisTV.co@SD" group-title="COLOMBIA TV",Oasis TV (720p) [Not 24/7]
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+#EXTINF:-1 tvg-id="OndambientalTV.co@SD" group-title="COLOMBIA TV",Ondambiental TV (360p)
+https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+#EXTINF:-1 tvg-id="ParrandaVallenata.co@SD" group-title="COLOMBIA TV",Parranda Vallenata (720p)
+https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
+#EXTINF:-1 tvg-id="RedPlus.co@SD" group-title="COLOMBIA TV",Red+ (1080p)
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:-1 tvg-id="Reyali.co@SD" group-title="COLOMBIA TV",Reyali (614p)
+https://eu1.servers10.com:8081/8090/index.m3u8
+#EXTINF:-1 tvg-id="SalsaGordaTelevision.co@SD" group-title="COLOMBIA TV",Salsa Gorda Television (1080p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
+#EXTINF:-1 tvg-id="SenalColombia.co@SD" group-title="COLOMBIA TV",Senal Colombia (720p)
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SupermusicaTV.co@SD" group-title="COLOMBIA TV",Supermúsica TV (720p)
+https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
+#EXTINF:-1 tvg-id="SuramTV.co@SD" group-title="COLOMBIA TV",Suram TV (1080p)
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
+#EXTINF:-1 tvg-id="SuramTV.co@SD" group-title="COLOMBIA TV",Suram TV (720p)
+https://us.streaminghd.cl/suramtv/index.m3u8
+#EXTINF:-1 tvg-id="TeleAmiga.co@SD" group-title="COLOMBIA TV",Tele Amiga (480p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleantioquia.co@SD"group-title="COLOMBIA TV",Teleantioquia (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telebolivar.co@SD" group-title="COLOMBIA TV",Telebolívar (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecafe.co@SD" group-title="COLOMBIA TV",Telecafe (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta318.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecaribe.co@SD" group-title="COLOMBIA TV",Telecaribe (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TelecaribePlus.co@SD" group-title="COLOMBIA TV",Telecaribe Plus (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleislas.co@SD" group-title="COLOMBIA TV",Teleislas (486p) [Not 24/7]
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemedellin.co@SD" group-title="COLOMBIA TV",Telemedellin (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telepacifico.co@SD" group-title="COLOMBIA TV",Telepacífico (1080p) [Geo-blocked]
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+#EXTINF:-1 tvg-id="TeveColombia.co@SD" group-title="COLOMBIA TV",TeveColombia (720p) [Not 24/7]
+https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
+#EXTINF:-1 tvg-id="Trece.co@SD" group-title="COLOMBIA TV",Trece (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TuUniversoTV.co@SD" group-title="COLOMBIA TV",Tu Universo TV (720p)
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSanJorge.co@SD" group-title="COLOMBIA TV",TV San Jorge (1080p) [Not 24/7]
+https://asucap.com/livestream/asucap_envivo.m3u8
+#EXTINF:-1 tvg-id="UltraCasanareTV.co@SD" group-title="COLOMBIA TV",Ultra Casanare TV (1080p) [Not 24/7]
+https://eu1.servers10.com:8081/8072/index.m3u8
+#EXTINF:-1 tvg-id="UMCTV.co@SD" group-title="COLOMBIA TV",UMC TV (720p)
+https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
+#EXTINF:-1 tvg-id="ViveTV.co@SD" group-title="COLOMBIA TV",Vive TV Colombia (1080p)
+http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleVid.co@SD" group-title="COLOMBIA TV",Tele Vid (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesangil.co@SD" group-title="COLOMBIA TV",Telesangil (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalPyC.co@SD" group-title="COLOMBIA TV",Canal PyC (720p)
+https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="KaluTV.co@SD" group-title="COLOMBIA TV",Kalu TV (1080p)
+https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
+#EXTINF:-1 tvg-id="CanalCHD.co@SD" group-title="COLOMBIA TV",Canal CHD
+https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
